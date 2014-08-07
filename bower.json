@@ -1,0 +1,16 @@
+{
+  "name": "google-infobox",
+  "main": "google-infobox.js",
+  "version": "0.0.0",
+  "authors": [
+    "Pepijn Senders <p.senders92@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
